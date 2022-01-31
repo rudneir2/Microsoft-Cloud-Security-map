@@ -194,7 +194,7 @@ Application Insight is part of Azure Monitor; however, you will have to create i
 Azure storage offers different types of storage under the same storage account technology. You may find blobs, files, table and queues on top of storage accounts. Storage analytics offers a broad range of metrics to use with those storages’ services. You will be able to access it, going to your Storage account at Azure Portal (https://portal.azure.com) , then setting “Diagnostic settings” on the left menu and choosing one log analytics workspace to send that information. Then, you may access some dashboard on “Insights” that you will see on the left menu. But you will also be able to access a series of workbooks on “workbooks” at the left menu, Metrics and Alerts for your storage account. Everything will be inside your storage account being monitored, in the left menu.
 
 
-## - How is the pricing for Microsoft Security services
+## How is the pricing for Microsoft Security services
 
 Best way to get any of the Azure Security services prices is visiting Azure pricing calculator at https://azure.microsoft.com/en-us/pricing/calculator/
 
