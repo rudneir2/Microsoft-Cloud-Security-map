@@ -65,6 +65,49 @@ It is part of Microsoft 365 Defender:
 - Microsoft Defender for Office 365
 - Microsoft Defender for Cloud Apps
 
+![image](https://user-images.githubusercontent.com/97529152/151839057-0975df46-6dc4-45d7-bff1-702a1ec6bb02.png)
+
+### Components
+
+1.	Microsoft Defender for endpoint
+Microsoft Defender for Endpoint is an enterprise endpoint security platform designed to help enterprise networks prevent, detect, investigate, and respond to advanced threats. It will create a layer of protection for VMs running on Azure and on-premises. For more details about what it may protect, see it here: https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint?view=o365-worldwide
+
+2.	Microsoft Defender for Cloud Apps
+Microsoft Defender for Cloud Apps (formerly known as Microsoft Cloud Application Security or simply MCAS) is a Cloud Access Security Broker (CASB) that supports various deployment modes including log collection, API connectors, and reverse proxy. It provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyberthreats across all your Microsoft and third-party cloud services. In other words, it is going to provide protection and risk mitigation for Cloud Apps or even for some Apps running on-premises. It will also provide a protection layer for users that access those Apps.
+
+It is very important not confuse it with the “Microsoft Defender for Cloud” that is a solution from Azure, formerly known as Azure Security Center, which provides recommendation and a security posture score for Servers, Apps, Storage accounts and other Azure resources. 
+See more details on that page: https://docs.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps
+
+3.	Microsoft Defender for Office 365
+Microsoft Defender for Office 365 safeguards your organization against malicious threats posed by email messages, links (URLs), and collaboration tools. It will provide protection for email and collaboration. Depending on the license you have, you will be able to add post-breach investigation, hunting, and response, as well as automation, and simulation (for training). You may see more about the license options on this website: https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/overview?view=o365-worldwide
+
+4.	Microsoft Defender for Identity
+Microsoft Defender for Identity (formerly Azure Advanced Threat Protection, also known as Azure ATP) is a cloud-based security solution that leverages your on-premises Active Directory signals to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions directed at your organization. It will protect ADDS (Active Directory Domains Services) running on-premises. Even though this service runs on the cloud, it works to protect Identities on-premises.
+If you need protection for identities provided by Azure AD, that runs natively on the cloud, you will have to consider Azure AD Identity Protection service.
+See more details on that page: https://docs.microsoft.com/en-us/defender-for-identity/what-is
+
+5.	Microsoft Endpoint Manager
+Microsoft Endpoint Manager provides services for cloud and on-premises, including multiple services such as Microsoft Intune that allows you control features and settings on Android, Android Enterprise, iOS/iPadOS, macOS, and Windows 10 and 11 devices. It integrates with other services, including Azure Active Directory (AD), mobile threat defenders, ADMX templates, Win32 and custom LOB apps, and more.
+
+Another known service that is now part of Microsoft Endpoint Manager is Configuration Manager, an on-premises management solution, that allow you to manage desktops, servers, and laptops that are on your network or internet-based. You can cloud-enable it to integrate with Intune, Azure Active Directory (AD), Microsoft Defender for Endpoint, and other cloud services. Use Configuration Manager to deploy apps, software updates, and operating systems. You can also monitor compliance, query, and act on clients in real time, and much more.
+There are still other services that are part of Microsoft Endpoint Manager. To see all of them, look at this website: https://docs.microsoft.com/en-us/mem/endpoint-manager-overview
+
+## Azure Monitoring services
+
+Monitoring on Azure may seem confused at first sight, but they are not. Each Microsoft Azure monitoring service has its own importance in the entire Microsoft Security and Monitoring strategy.
+There is couple of important services that will be presented in the next Architecture diagram. Some of those services are focused on capturing information from specific services such as network or apps. Some of them are core services, I mean, they can collect information from different services no matter what they are.
+
+Those are the services:
+- Log Analytics
+- Azure Monitor
+- Microsoft Defender for Cloud (aka Azure Security Center)
+- Azure Sentinel
+- Traffic Analytics (part of Network Watcher)
+- Application Insights
+- Storage Analytics
+
+
+
 
 
 
