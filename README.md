@@ -8,7 +8,7 @@ The idea of this architecture reference is putting Customer environment, threats
 
 ![image](https://user-images.githubusercontent.com/97529152/151837839-ac8fde8c-bf34-4c7c-ab91-4bc755c63f6e.png)
 
-## Potential use cases (how to use this diagram)
+### Potential use cases (how to use this diagram)
 
 There are a couple of threats that are very common regardless of the industry segment, such as Ransonwares, DDOS attacks, Cross-site scripting, SQL injection, and much more. However, specific customers have specific concerns about a set of threats. This architecture reference may help you understand how to build several security layers for your environment and then combine multiple Microsoft security and monitoring services to work together and help you build out a security solution that will deliver a much better security posture.
 This architecture reference will help you identify the best Microsoft security services combination for your main Security concerns.
