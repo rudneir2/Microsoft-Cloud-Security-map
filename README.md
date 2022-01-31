@@ -1,6 +1,5 @@
 # Microsoft cloud security services integrated (including Azure services, monitoring and Microsoft Defender services)
 
-## Introduction
 
 Microsoft has been working very hard to become the Company with the broadest and most intelligent set of Security solutions available on the Market. There are many facts and artifacts that prove that. From Security methodologies and frameworks like Zero Trust, Azure Security Benchmarks, Microsoft Compliance center, Azure public cloud Security services and Microsoft 365 Defender Security services, among many others, Microsoft delivers a complete set of Security solution to make your Company security posture much better!
 From a threat perspective, Attackers has evolved along with new technologies and scenarios specially regarding public and hybrid cloud scenarios. You may have a very comprehensive understanding of how those threats works by looking at Mitre Att&ack matrix web page.
