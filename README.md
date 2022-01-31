@@ -39,4 +39,32 @@ https://attack.mitre.org/
 
 Azure public cloud counts with several different Security services that protect its Network, Compute, Storage, Applications, Databases, and Identity services. An interesting fact is that some of them are free of costs, such as NSG (Network Security Group), Storage encryption, TLS/SSL, SAS token, and many others.
 
+![image](https://user-images.githubusercontent.com/97529152/151838729-cbdb835b-3848-466d-b439-7380689fa8d7.png)
+
+### Components
+
+1.	Those Security services are “mapped” through Azure Security Benchmarks, currently in the version 3. The Azure Security Benchmark provides prescriptive best practices and recommendations to help improve the security of workloads, data, and services on Azure. The diagram shows a subset of those Azure security services and its control number according to Azure Security Benchmark reference page.
+https://docs.microsoft.com/en-us/security/benchmark/azure/overview
+
+2.	Azure Security services may also be found through Azure Security Baselines for specific Azure services. For example, if you want to understand how to apply Security to Azure Virtual Network or Azure Virtual Machines, you will find a specific set of recommended Security services for those specific services. This link shows an example of all Security services and best practices available for a Windows Virtual Machine.
+https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-machines-windows-security-baseline
+
+### Microsoft 365 and Microsoft 365 Defender Security services
+
+First off, Let’s demystify a couple of names regarding Microsoft and Office services.
+
+Microsoft 365 and Office 365 are cloud-based services designed to help meet your organization's needs for robust security, reliability, and user productivity.
+Microsoft 365 includes services like Power Automate, Forms, Stream, Sway and Office 365.
+
+Office 365 includes several known services like Word, Excel, PowerPoint, Outlook, OneNote, SharePoint, Teams and OneDrive
+Depending on the license you acquire for Microsoft 365 (https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options), you may also get the Security services for Microsoft 365. These set of Security services are also called Microsoft 365 Defender. 
+
+It is part of Microsoft 365 Defender:
+•	Microsoft Defender for Endpoint
+•	Microsoft Defender for Identity
+•	Microsoft Defender for Office 365
+•	Microsoft Defender for Cloud Apps
+
+
+
 
