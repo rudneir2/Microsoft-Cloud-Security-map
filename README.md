@@ -25,12 +25,11 @@ https://www.microsoft.com/en-us/security/business/zero-trust
 In the bottom of the Architecture diagram, we have some of the most known cybersecurity threats used by Attackers in order to compromise Companies environment with malicious codes, phishing emails, malwares, Denial of Services (DOS) attacks and other attack vectors. They were categorized according to Tactics and Technics published by Mitre Att&ck matrix. 
 https://attack.mitre.org/
 
-## Components
+### Components
 
-### 1.	on-premises: it was considered in the diagram basic services such as Servers (VMs), Network appliances and services, Applications, Database and File server and ADDS (Active Directory Domain Service) that handle user’s credentials.
+1.	on-premises: it was considered in the diagram basic services such as Servers (VMs), Network appliances and services, Applications, Database and File server and ADDS (Active Directory Domain Service) that handle user’s credentials.
 
 2.	Ofiice 365 environment: this environment contains traditional office applications including Word, Excel, PowerPoint, Outlook, OneNote and depending on the the plan purchased, may also include other apps such as OneDrive, Exchange, Sharepoint and Teams. It is represented on this diagram for an unique logo plus Azure AD, a cloud identity provider that is required to run Office 365.
-
 
 3.	For Azure environment: this is the public cloud service that contains services very similar to on-premises, like Servers (VMs), Workstations (VDI), Network components (basically Virtual), services called PaaS like Web Apps, Databases and Storage service, where Companies don’t have to manage physical devices and Azure AD. This Azure AD will provide identity credentials for Azure services users, and it can be the same Azure AD used with Office 365. Azure AD is also called Azure Tenant.
 
