@@ -35,7 +35,7 @@ https://attack.mitre.org/
 
 4.	Most Common threats: the diagram represents only a few examples of threats. They are categorized according to Mitre Att&ck matrix. Attackers may use a specific threat to compromise a customer environment or use a combination of several threats, also called blended attack.
 
-### Azure Security Services
+## Azure Security Services
 
 Azure public cloud counts with several different Security services that protect its Network, Compute, Storage, Applications, Databases, and Identity services. An interesting fact is that some of them are free of costs, such as NSG (Network Security Group), Storage encryption, TLS/SSL, SAS token, and many others.
 
@@ -49,7 +49,7 @@ https://docs.microsoft.com/en-us/security/benchmark/azure/overview
 2.	Azure Security services may also be found through Azure Security Baselines for specific Azure services. For example, if you want to understand how to apply Security to Azure Virtual Network or Azure Virtual Machines, you will find a specific set of recommended Security services for those specific services. This link shows an example of all Security services and best practices available for a Windows Virtual Machine.
 https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-machines-windows-security-baseline
 
-### Microsoft 365 and Microsoft 365 Defender Security services
+## Microsoft 365 and Microsoft 365 Defender Security services
 
 First off, Let’s demystify a couple of names regarding Microsoft and Office services.
 
@@ -60,10 +60,10 @@ Office 365 includes several known services like Word, Excel, PowerPoint, Outlook
 Depending on the license you acquire for Microsoft 365 (https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options), you may also get the Security services for Microsoft 365. These set of Security services are also called Microsoft 365 Defender. 
 
 It is part of Microsoft 365 Defender:
-•	Microsoft Defender for Endpoint
-•	Microsoft Defender for Identity
-•	Microsoft Defender for Office 365
-•	Microsoft Defender for Cloud Apps
+- Microsoft Defender for Endpoint
+- Microsoft Defender for Identity
+- Microsoft Defender for Office 365
+- Microsoft Defender for Cloud Apps
 
 
 
