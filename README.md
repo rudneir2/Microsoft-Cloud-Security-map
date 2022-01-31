@@ -15,3 +15,4 @@ This architecture reference will help you identify the best Microsoft security s
 It will also give you a big picture of Microsoft security services so that you can understand in an easy and simple way how they work together or in any combination you need.
 Let’s review this Architecture reference for Microsoft cloud Security services in different steps so that you can understand all the elements on it.
 
+## Customer environment and the most known threats
