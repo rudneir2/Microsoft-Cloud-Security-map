@@ -150,7 +150,7 @@ https://docs.microsoft.com/en-us/azure/sentinel/
 
 As we covered many different Services, here it is information about how to access each of those Services:
 
-### - Azure Security services
+**- Azure Security services**
 All Azure Security services mentioned in the diagrams may be accessed through Azure Portal. Simply go to https://portal.azure.com and search for the service you are interested in.
 
 ### - Azure Monitor
