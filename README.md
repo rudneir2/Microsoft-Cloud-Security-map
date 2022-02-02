@@ -196,8 +196,8 @@ Azure storage offers different types of storage under the same storage account t
 ## How is the pricing for Microsoft Security services
 
 Best way to get any of the Azure Security services prices is visiting Azure pricing calculator at https://azure.microsoft.com/en-us/pricing/calculator/
-
 You will have to search for the service you are interested in and click on it to get all the variables that you provide you the price for the service.
+
 Microsoft 365 Defender security services works with licenses. The link below shows all licensing requirements for Microsoft 365 Defender services.
 https://docs.microsoft.com/en-us/microsoft-365/security/defender/prerequisites?view=o365-worldwide
 
