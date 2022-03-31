@@ -16,7 +16,7 @@ Let’s review this Architecture reference for Microsoft cloud Security services
 
 ## Customer environment and the most known threats
 
-![image](https://user-images.githubusercontent.com/97529152/151838555-f69a1c45-0cb0-42e1-a3aa-4888fb936097.png)
+![image](https://user-images.githubusercontent.com/97529152/161082839-c1b1ea59-2623-4415-8402-c8bff43aff43.png)
 
 It was considered on this diagram a very common Customer environment with an On-premises, Office 365 subscription and Azure subscription layer, also called hybrid environment. They were categorized according to the pillars of Microsoft Zero Trust: Network, Infrastructure, Endpoint, Application, Data and Identity. 
 https://www.microsoft.com/en-us/security/business/zero-trust
