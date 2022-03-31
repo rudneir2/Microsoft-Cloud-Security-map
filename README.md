@@ -64,7 +64,7 @@ It is part of Microsoft 365 Defender:
 - Microsoft Defender for Office 365
 - Microsoft Defender for Cloud Apps
 
-![image](https://user-images.githubusercontent.com/97529152/151839057-0975df46-6dc4-45d7-bff1-702a1ec6bb02.png)
+![image](https://user-images.githubusercontent.com/97529152/161083505-ff8cfd2e-ac23-492a-95fd-dfae0581d6eb.png)
 
 ### Components
 
