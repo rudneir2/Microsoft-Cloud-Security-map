@@ -105,7 +105,7 @@ Those are the services:
 - Application Insights
 - Storage Analytics
 
-![image](https://user-images.githubusercontent.com/97529152/151839345-941e00bc-21e2-42e0-be32-6ddd54f6227b.png)
+![image](https://user-images.githubusercontent.com/97529152/162752439-6154fdfa-1a86-4ed7-ac00-031a852c61c3.png)
 
 ### Components
 
