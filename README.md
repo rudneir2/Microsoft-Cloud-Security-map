@@ -38,7 +38,7 @@ https://attack.mitre.org/
 
 Azure public cloud counts with several different Security services that protect its Network, Compute, Storage, Applications, Databases, and Identity services. An interesting fact is that some of them are free of costs, such as NSG (Network Security Group), Storage encryption, TLS/SSL, SAS token, and many others.
 
-![image](https://user-images.githubusercontent.com/97529152/151838729-cbdb835b-3848-466d-b439-7380689fa8d7.png)
+![image](https://user-images.githubusercontent.com/97529152/162753003-f091cf46-901b-46cf-9090-1ba34ab56345.png)
 
 ### Components
 
